@@ -16,12 +16,14 @@ This repo shares the LabView code developed during my undergraduate research bet
 - 2x DC Motors (for propulsion)
 - 2x propellers 
 - 1x ESC 30A
+- 1x H-Bridge
+- 2x LiPo Baterries
 - 1x MPU6050 (IMU sensor)
 - The prototype structure
 
 ## The Prototype
 
-<img src="docs/hovercraft_prototype.jpg" width="600"/>
+<img src="docs/hovercraft_prototype.jpg" width="480"/>
 
 ## The Hovercraft in action (Controlled via LabView by a bad pilot)
 
