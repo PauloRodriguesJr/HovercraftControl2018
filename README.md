@@ -21,7 +21,7 @@ This repo shares the LabView code developed during my undergraduate research bet
 
 ## The Prototype
 
-<img src="docs/hovercraft_prototype.png" width="600"/>
+<img src="docs/hovercraft_prototype.jpg" width="600"/>
 
 ## The Hovercraft in action (Controlled via LabView by a bad pilot)
 
