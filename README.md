@@ -25,7 +25,7 @@ This repo shares the LabView code developed during my undergraduate research bet
 
 <img src="docs/hovercraft_prototype.jpg" width="480"/>
 
-## The Hovercraft in action (Controlled via LabView by a bad pilot)
+## The Hovercraft in action (controlled via LabView by a bad pilot)
 
 <img src="docs/hover_running.gif" width="600"/>
 
@@ -36,4 +36,4 @@ This repo shares the LabView code developed during my undergraduate research bet
 
 ## License
 
-This project is released under the MIT License.
+This project is released under the MIT License. Please review the [License file](LICENSE) for more details.
